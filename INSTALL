@@ -1,0 +1,9 @@
+Building highgain
+
+See doc/readme-qt.rst for instructions on building highgain QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of highgain.
+
+See doc/build-*.txt for instructions on building highgaind,
+the intended-for-services, no-graphical-interface, reference
+implementation of highgain.
